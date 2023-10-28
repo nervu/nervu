@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&repeat=false&random=false&width=435&lines=welcome+to+my+profile!)](https://git.io/typing-svg)
 <h1 align="center">hey! i'm jerry, nice to meet you ✌️</h1>
 <h3> 🚀 About Me </h3> 
-<img width="380" align="right" alt="Github"
-src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/developer-girl.gif" 
-/> 
 <p>i'm a full-time student at NAIT, taking the Web Design and Development concentration. i've always been a huge computer nerd my whole life and decided I should get to learn what goes into all the fascinating websites I've used for years. i'm very eager to learn and develop my skills. in my spare time i love reading, gaming, and drawing. </p>
 
 thanks for visiting my profile, cheers.
