@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=hello+world+%3A)" alt="Typing SVG" /></a>
 <h1 align="center">hey! i'm jerry, nice to meet you ✌️</h1>
 <h3> 🚀 About Me </h3> 
 <p>i'm a full-time student at NAIT, taking the Web Design and Development concentration. i've always been a huge computer nerd my whole life and decided I should get to learn what goes into all the fascinating websites I've used for years. i'm very eager to learn and develop my skills. in my spare time i love reading, gaming, and drawing. </p>
