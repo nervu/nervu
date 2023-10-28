@@ -1,5 +1,8 @@
 <h1 align="center">hey! i'm jerry, nice to meet you ✌️</h1>
-<h3 align="center">i am a full-time student at NAIT in Web Design & Development, full-time geek, and always looking to learn. thanks for checking my profile, i'd love to chat.</h3>
+## 🚀 About Me
+i'm a full-time student at NAIT, taking the Web Design and Development concentration. i've always been a huge computer nerd my whole life and decided I should get to learn what goes into all the fascinating websites I've used for years. i'm very eager to learn and develop my skills. 
+
+thanks for visiting my profile, cheers.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nervu&label=Profile%20views&color=0e75b6&style=flat" alt="nervu" /> </p>
 
