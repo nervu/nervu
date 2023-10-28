@@ -3,10 +3,11 @@
 <p>i'm a full-time student at NAIT, taking the Web Design and Development concentration. i've always been a huge computer nerd my whole life and decided I should get to learn what goes into all the fascinating websites I've used for years. i'm very eager to learn and develop my skills. in my spare time i love reading, gaming, and drawing. </p>
 
 thanks for visiting my profile, cheers.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nervu&label=Profile%20views&color=0e75b6&style=flat" alt="nervu" /> </p>
 
 - 🌱 i'm currently learning about **Tailwind, PHP, Bootstrap, CSS & SCSS, HTML5, SQL.**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nervu&label=Profile%20views&color=0e75b6&style=flat" alt="nervu" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nervu" alt="nervu" /></a> </p>
 
